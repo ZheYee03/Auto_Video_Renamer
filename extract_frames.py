@@ -1,0 +1,1 @@
+from video_renamer.frame_extraction import extract_three_frames

@@ -1,0 +1,9 @@
+.env
+config.json
+.venv/
+__pycache__/
+build/
+dist/
+frames/
+thumbs/
+output/
